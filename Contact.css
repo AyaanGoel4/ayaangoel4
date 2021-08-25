@@ -1,0 +1,62 @@
+.pa {
+  display: flex;
+  font-size: 27px;
+  align-items: center;
+  justify-content: center;
+  /* background-color: white; */
+  color: white;
+  padding-top: 135px;
+}
+
+.contact-form {
+  background-color: white;
+}
+
+.myinput {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background-color: white; */
+  justify-content: center;
+}
+
+.myname {
+  width: 561px;
+  margin: 16px;
+  border: 1px solid black;
+  padding: 6px;
+  border-radius: 10px;
+  outline: none;
+}
+
+.mynam {
+  margin: 2vh;
+  /* width: 15vw; */
+  height: 189px;
+  width: 561px;
+  margin: 16px;
+  border: 1px solid black;
+  padding: 6px;
+  border-radius: 10px;
+  outline: none;
+  /* background-color:#32cdbc ; */
+}
+
+.btn {
+  /* padding: 9px 15px; */
+  border: 1px solid black;
+  background: black;
+  margin-bottom: 2vh;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  /* height: 5vh; */
+  padding: 2vh;
+  /* width: 60px; */
+}
+
+.btn a {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
